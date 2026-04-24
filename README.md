@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Hauan Felipe
 
-<!--
-**HauanFelipe/HauanFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e busco minha primeira oportunidade como Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+Atualmente trabalho com suporte técnico na Stage Sistemas, onde tenho contato direto com sistemas empresariais, análise de problemas, atendimento a usuários e validação de funcionalidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,django,java,mysql,git,github" />
+</div>
+
+## Foco atual
+
+- Desenvolvimento Full Stack
+- React com TypeScript
+- Node.js e APIs REST
+- Banco de dados MySQL
+- Boas práticas com Git e GitHub
+
+## Projetos em destaque
+
+- Sistema de gestão e ordens de serviço
+- Sistema bancário em Java
+- Projetos web com React e TypeScript
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/hauan-felipe-522460321  
+Email: hauanfeliperibeiro@gmail.com
